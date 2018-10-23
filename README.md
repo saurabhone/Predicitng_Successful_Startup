@@ -1,0 +1,2 @@
+# Predicitng_Successful_Startup
+When the entrepreneurs begin with their startup, they think they are buiding the next big company! But the reality is 90% of the startups fail and most of them fail because lack of idea about some factors affecting the success in their startup. In this exercise we will predict which startup is going to be successful and which startup is going to fail. Let's see if your startup is the next big thing or not.
